@@ -1,6 +1,6 @@
 # <h1 align="center"><img src="hello.gif" width="28px" alt="hi"><br/> Me: [Hasanul Haque Banna](https://hasanulhaquebanna.com) </h1>
 
-![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hasanulhaquebanna.hasanulhaquebanna)
+![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=programmerbanna.programmerbanna)
 
 
 ### Know about me
