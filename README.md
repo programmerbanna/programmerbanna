@@ -1,5 +1,7 @@
 # <h1 align="center"><img src="hello.gif" width="28px" alt="hi"><br/> Me: [Hasanul Haque Banna](https://hasanulhaquebanna.com) </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerbanna&label=Profile%20views&color=0e75b6&style=flat" alt="programmerbanna" /> </p>
+
 ### Know about me
 
 - 🏫 Currently completing my B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
