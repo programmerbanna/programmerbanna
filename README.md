@@ -4,7 +4,7 @@
 
 ### Know about me
 
-- 🏫 Currently completing my B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
+- 🏫 Currently completing B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
 - 🌱 I'm a **MERN Stack Developer** || **Blockchain Developer**
 - 💬 Ask me about **React, JavaScript, Node JS, React native, Python, Django**
 - 💻 Most used code `console.log("Hello world")`
