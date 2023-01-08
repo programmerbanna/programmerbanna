@@ -1,33 +1,22 @@
 # <h1 align="center"><img src="hello.gif" width="28px" alt="hi"><br/> [Hasanul Haque Banna](https://hasanulhaquebanna.com) </h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerbanna&label=Profile%20views&color=0e75b6&style=flat" alt="programmerbanna" /> </p>
 
-
 ### Know about me
-
 - 🏫 Currently completing B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
 - 🌱 I'm a **MERN Stack Developer** || **Blockchain Developer**
 - 💬 Ask me about **React, JavaScript, Node JS, React native, Python, Django**
 - 💻 Most used code `console.log("Hello world")`
 - 😂 Fun Fact: I enjoy programming and debugging problem also a non-technical psychiatrist
 - 📫 My Portfolio: [Hasanul Haque Banna](https://hasanulhaquebanna.com)
-
-
-
+- 
 ## 🚀 Wanna connect with me?
-
-
-
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamfreelancerbanna)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/freelancerbanna)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/freelancerbanna)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freelancerbanna)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanulhaquebanna@gmail.com)
 
-
 ## 💻 [Expertise Tools:](#)
-
-
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
@@ -71,8 +60,6 @@
 
 
 ##  <h1 align="center">[GITHUB STATS](#)</h1>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmerbanna&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Banna's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerbanna&layout=compact&show_icons=true&theme=radical)
