@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerbanna&label=Profile%20views&color=0e75b6&style=flat" alt="programmerbanna" /> </p>
 
+
 ### Know about me
 
 - 🏫 Currently completing B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
@@ -10,6 +11,7 @@
 - 💻 Most used code `console.log("Hello world")`
 - 😂 Fun Fact: I enjoy programming and debugging problem also a non-technical psychiatrist
 - 📫 My Portfolio: [Hasanul Haque Banna](https://hasanulhaquebanna.com)
+
 
 
 ## 🚀 Wanna connect with me?
