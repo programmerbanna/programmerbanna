@@ -61,7 +61,6 @@
 [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)
 [![Framer Badge](	https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)](#)
 [![Chartjs Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](#)
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
 
 
 
