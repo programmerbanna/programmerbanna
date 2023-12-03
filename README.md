@@ -1,15 +1,19 @@
 # <h1 align="center"><img src="hello.gif" width="28px" alt="hi"><br/> [Hasanul Haque Banna](https://hasanulhaquebanna.com) </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerbanna&label=Profile%20views&color=0e75b6&style=flat" alt="programmerbanna" /> </p>
 
 ### Know about me
+
 - 🏫 Currently completing B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
 - 🌱 I'm a **MERN Stack Developer** || **Blockchain Developer**
 - 💬 Ask me about **React, JavaScript, Node JS, React native, Python, Django**
 - 💻 Most used code `console.log("Hello world")`
 - 😂 Fun Fact: I enjoy programming and debugging problem also a non-technical psychiatrist
 - 📫 My Portfolio: [Hasanul Haque Banna](https://hasanulhaquebanna.com)
-- 
+-
+
 ## 🚀 Wanna connect with me?
+
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamfreelancerbanna)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/freelancerbanna)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanulhaquebanna)
@@ -18,7 +22,48 @@
 
 ## 💻 [Expertise Tools:](#)
 
-### Language
+## My Skill Set
+
+<table><tr><td valign="top" width="33%">
+
+### Frontend
+
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Backend
+
+<div align="center">
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Others
+
+<div align="center">
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+</div>
+
+</td></tr></table>
+
+<br/>
+
+<!-- ### Language
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](#)
@@ -62,14 +107,13 @@
 [![Framer Badge](	https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)](#)
 [![Chartjs Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](#)
 
+ -->
 
+## <h1 align="center">[GITHUB STATS](#)</h1>
 
-##  <h1 align="center">[GITHUB STATS](#)</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmerbanna&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Banna's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerbanna&layout=compact&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=programmerbanna&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&layout=compact&show_icons=true&theme=radical)](https://git.io/streak-stats)</td>
 <img alt="Programmerbanna Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=programmerbanna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-
