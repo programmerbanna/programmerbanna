@@ -122,4 +122,5 @@
 ![Banna's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerbanna&layout=compact&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=programmerbanna&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&layout=compact&show_icons=true&theme=radical)](https://git.io/streak-stats)</td>
-<img alt="Programmerbanna Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=programmerbanna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=programmerbanna&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/programmerbanna/github-readme-activity-graph)
