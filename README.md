@@ -42,9 +42,9 @@
 ### Backend
 
 <div align="center">
-<img style="margin: 10px" src="/assets/express.png" height="70" />
+<img style="margin: 10px; height:70px;" src="/assets/express.png" height="70" />
 <img style="margin: 10px" src="/assets/nodejs.png" height="50" />
-<img style="margin: 10px" src="/assets/nestjs.png" height="50" />
+<img style="margin: 10px; height:70px;" src="/assets/nestjs.png" height="50" />
 <img style="margin: 10px" src="/assets/aws.png" height="50" />
 <img style="margin: 10px" src="/assets/php.png" height="50" />
 <img style="margin: 10px" src="/assets/mongodb.png" height="70" />
@@ -56,9 +56,10 @@
 ### Others
 
 <div align="center">
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+<img style="margin: 10px; height:70px;" src="/assets/git.png" height="70" />
+<img style="margin: 10px; height:70px;" src="/assets/redis.png" height="50" />
+<img style="margin: 10px" src="/assets/docker.png" height="50" />
+<img style="margin: 10px" src="/assets/nginx.png" height="50" />
 </div>
 
 </td></tr></table>
