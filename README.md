@@ -117,8 +117,11 @@
 
 ## <h1 align="center">[GITHUB STATS](#)</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmerbanna&show_icons=true&theme=radical)
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
-![Banna's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerbanna&layout=compact&show_icons=true&theme=radical)
+![Stats Overview](https://raw.githubusercontent.com/programmerbanna/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/programmerbanna/github-stats-transparent/output/generated/languages.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=programmerbanna&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&layout=compact&show_icons=true&theme=radical)
+
+</a>
