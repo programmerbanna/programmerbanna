@@ -43,8 +43,8 @@
 
 <div align="center">
 <img style="margin: 10px" src="/assets/express.png" height="70" />
-<img style="margin: 10px" src="/assets/nodejs.png" height="80" />
-<img style="margin: 10px" src="/assets/nestjs.png" height="80" />
+<img style="margin: 10px" src="/assets/nodejs.png" height="50" />
+<img style="margin: 10px" src="/assets/nestjs.png" height="50" />
 <img style="margin: 10px" src="/assets/aws.png" height="50" />
 <img style="margin: 10px" src="/assets/php.png" height="50" />
 <img style="margin: 10px" src="/assets/mongodb.png" height="70" />
