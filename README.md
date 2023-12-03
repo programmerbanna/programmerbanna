@@ -114,8 +114,6 @@
 
  -->
 
-## <h1 align="center">[](#)</h1>
-
 <details>
     <summary><h1>GITHUB STATS: </h1></summary>
   <br />
