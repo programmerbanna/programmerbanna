@@ -42,13 +42,13 @@
 ### Backend
 
 <div align="center">
-<img style="margin: 10px; height:40px;" src="/assets/express.png" height="50" />
+<img style="margin: 10px; height:70px;" src="/assets/express.png" height="50" />
 <img style="margin: 10px" src="/assets/nodejs.png" height="50" />
-<img style="margin: 10px; height:30px;" src="/assets/nestjs.png" height="50" />
+<img style="margin: 10px; height:60px;" src="/assets/nestjs.png" height="50" />
 <img style="margin: 10px" src="/assets/aws.png" height="50" />
 <img style="margin: 10px" src="/assets/php.png" height="50" />
-<img style="margin: 10px; height:30px;" src="/assets/mongodb.png" height="50" />
-<img style="margin: 10px" src="/assets/mysql.png" height="50" />
+<img style="margin: 10px; height:70px;" src="/assets/mongodb.png" height="50" />
+<img style="margin: 10px" src="/assets/mysql.png" height="100" />
 </div>
 
 </td><td valign="top" width="33%">
