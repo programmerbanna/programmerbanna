@@ -32,7 +32,7 @@
 <img style="margin: 10px" src="/assets/javascript.png" alt="HTML5" height="50" />
 <img style="margin: 10px" src="/assets/typescript.png" alt="HTML5" height="50" />
 <img style="margin: 10px; height:80px;" src="/assets/reactjs.png" alt="HTML5" height="50" />
-<img style="margin: 10px" src="/assets/nextjs.png" alt="HTML5" height="50" />
+<img style="margin: 10px; height:80px;" src="/assets/nextjs.png" alt="HTML5" height="50" />
 
 </div>
 
