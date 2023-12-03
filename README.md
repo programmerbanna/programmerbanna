@@ -57,6 +57,9 @@
 
 <div align="center">
 <img style="margin: 10px; height:70px;" src="/assets/git.png" height="70" />
+<img style="margin: 10px; height:70px;" src="/assets/graphql.png" height="70" />
+<img style="margin: 10px; height:70px;" src="/assets/prisma.png" height="70" />
+<img style="margin: 10px; height:70px;" src="/assets/socketio.png" height="70" />
 <img style="margin: 10px; height:70px;" src="/assets/redis.png" height="50" />
 <img style="margin: 10px" src="/assets/docker.png" height="50" />
 <img style="margin: 10px" src="/assets/nginx.png" height="50" />
