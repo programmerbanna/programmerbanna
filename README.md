@@ -20,10 +20,8 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmerbanna)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanulhaquebanna@gmail.com)
 
-## 💻 [Expertise Tools:](#)
-
 <details>
-    <summary><b>Click to see🔥</b></summary>
+    <summary><h1>💻 Expertise Tools:</h1></summary>
   <table><tr><td valign="top" width="33%">
 
 ### Frontend
@@ -116,10 +114,10 @@
 
  -->
 
-## <h1 align="center">[GITHUB STATS](#)</h1>
+## <h1 align="center">[](#)</h1>
 
 <details>
-    <summary><b>Click to see🔥</b></summary>
+    <summary><h1>GITHUB STATS: </h1></summary>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programmerbanna&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerbanna&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
