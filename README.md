@@ -21,8 +21,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanulhaquebanna@gmail.com)
 
 <!-- expertise tools -->
-<details>
-    <summary><h1>💻 Expertise Tools:</h1></summary>
+<h1>💻 Expertise Tools:</h1>
   <table><tr><td valign="top" width="33%">
 
 ### Frontend
@@ -67,7 +66,6 @@
 </div>
 
 </td></tr></table>
-</details>
 
 <!-- github stats -->
 <details>
