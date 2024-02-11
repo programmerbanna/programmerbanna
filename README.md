@@ -68,11 +68,9 @@
 </td></tr></table>
 
 <!-- github stats -->
-<details>
-    <summary><h1> 👨‍💻 GITHUB STATS: </h1></summary>
+<h1> 👨‍💻 GITHUB STATS: </h1>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programmerbanna&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerbanna&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerbanna&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&layout=compact&show_icons=true&theme=radical"/>
-</details>
