@@ -5,7 +5,7 @@
 ### Know about me
 
 - 🏫 Currently completing B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
-- 🌱 I'm a **MERN Stack Developer** || **Blockchain Developer**
+- 🌱 I'm a **Full Stack Engineer** || **DevOps & AI Enthusiast**
 - 💬 Ask me about **React, JavaScript, Node JS, React native, Python, Django**
 - 💻 Most used code `console.log("Hello world")`
 - 😂 Fun Fact: I enjoy programming and debugging problem also a non-technical psychiatrist
